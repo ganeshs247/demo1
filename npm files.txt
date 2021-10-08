@@ -1,0 +1,2 @@
+npm i jspdf
+npm i html2canvas
